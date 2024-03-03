@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "externalConnectors")(type "KiCad")(uri "${KIPRJMOD}/ExternalConnectorFootprints/externalConnectors.pretty")(options "")(descr ""))
+  (lib (name "SpaceCogLabsLogo")(type "KiCad")(uri "${KIPRJMOD}/Logos/SpaceCogLabsLogo.pretty")(options "")(descr ""))
+)
